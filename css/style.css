@@ -1,0 +1,17 @@
+button {
+    padding: 10px 20px;
+    font-size: 12px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+td {
+    border: 2px solid black;
+    padding: 5px;
+    background-color: bisque;
+    border-radius: 10%;
+     
+}
